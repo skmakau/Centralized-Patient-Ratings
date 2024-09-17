@@ -11,5 +11,5 @@ function disablePatientLinks(patientIds) {
 
 // Example usage: Disable links for Patient 2 and Patient 4
 document.addEventListener('DOMContentLoaded', function() {
-    disablePatientLinks(['Patient 3', 'Patient 6']);
+    disablePatientLinks(['patient 3', 'patient 6']);
 });
